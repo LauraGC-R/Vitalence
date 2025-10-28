@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vitalence</string>
+    <string name="welcome">Bienvenido a</string>
+    <string name="brand">Vitalence</string>
+    <string name="subtitle">Inicia sesión con tu cuenta</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_in">INICIAR SESIÓN</string>
+    <string name="forgot">OLVIDÉ LA CONTRASEÑA</string>
+    <string name="register">REGÍSTRATE</string>
+    <string name="logo_desc">Logo Vitalence</string>
+</resources>

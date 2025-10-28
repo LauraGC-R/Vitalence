@@ -1,0 +1,20 @@
+<resources>
+    <string-array name="sexo_options">
+        <item>Femenino</item>
+        <item>Masculino</item>
+        <item>Otro</item>
+        <item>Prefiero no decir</item>
+    </string-array>
+
+    <string-array name="enfermedades_options">
+        <item>Ninguna</item>
+        <item>Diabetes</item>
+        <item>Hipertensión</item>
+        <item>Asma</item>
+        <item>Cardiopatía</item>
+        <item>Enfermedad tiroidea</item>
+        <item>Depresión/Ansiedad</item>
+        <item>Alergias severas</item>
+        <item>Otros</item>
+    </string-array>
+</resources>

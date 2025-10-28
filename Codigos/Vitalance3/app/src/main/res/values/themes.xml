@@ -1,0 +1,20 @@
+<resources>
+    <!-- Tema de la app -->
+    <style name="Theme.Vitalence" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/vitalence_red</item>
+        <item name="colorPrimaryContainer">@color/vitalence_red_dark</item>
+        <item name="android:statusBarColor">@color/vitalence_red_dark</item>
+    </style>
+
+    <!-- Apariencia GRANDE para helper (texto guía) -->
+    <style name="TextInputHelper.Large" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <!-- Apariencia GRANDE para error -->
+    <style name="TextInputError.Large" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#D32F2F</item>
+    </style>
+</resources>
